@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="btnC">C</string>
+    <string name="btnPM">+/-</string>
+    <string name="btnPercent">%</string>
+    <string name="btnDivide">/</string>
+    <string name="btn0">0</string>
+    <string name="double0">00</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnPlus">+</string>
+    <string name="btnMinus">-</string>
+    <string name="btnMultiply">X</string>
+    <string name="btnPoint">.</string>
+    <string name="btnEquals">=</string>
+    <string name="result">0</string>
+    <string name="pow">X^2</string>
+    <string name="sqrt">Sqrt</string>
+    <string name="fact">X!</string>
+    <string name="log">Log</string>
+    <string name="ln">Ln</string>
+    <string name="btnSin">Sin</string>
+    <string name="btnCos">Cos</string>
+    <string name="btnTan">Tan</string>
+    <string name="btnPi">Pi</string>
+    <string name="btnE">e</string>
+
+    <string name="font_aladdin">fonts/Aladdin_Regular.ttf</string>
+    <string name="font_cinta_thin">fonts/cintathin.ttf</string>
+</resources>
